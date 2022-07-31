@@ -1,4 +1,4 @@
-## Template Pattern
+# Template Pattern
 
 "The Template pattern is designed for situations where we have several different tasks to accomplish that have some, but not all, steps in common. The common steps are implemented in a base class, and the distinct steps are overridden in subclasses to provide custom behavior."
 "it's an implementation to support the Don't Repeat Yourself principle."  
